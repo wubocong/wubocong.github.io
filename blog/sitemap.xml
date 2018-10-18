@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/blog/2016/03/29/frontend-learning/</loc>
+    
+    <lastmod>2018-10-18T18:16:01.203Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/blog/2016/04/25/html-checkbox-validation/</loc>
+    
+    <lastmod>2018-10-18T18:14:32.009Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/blog/2015/03/24/javascript-prototype/</loc>
     
     <lastmod>2018-10-18T14:32:46.402Z</lastmod>
@@ -23,21 +37,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/blog/2014/05/28/hello-fe/</loc>
-    
-    <lastmod>2018-10-18T09:29:56.401Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/blog/2016/04/02/code-report-march-2016/</loc>
-    
-    <lastmod>2018-10-18T09:29:56.401Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/blog/2016/03/29/frontend-learning/</loc>
     
     <lastmod>2018-10-18T09:29:56.401Z</lastmod>
     
@@ -51,14 +51,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/blog/2015/12/15/3-year/</loc>
-    
-    <lastmod>2018-10-18T09:29:56.401Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/blog/2016/04/25/html-checkbox-validation/</loc>
+    <loc>http://yoursite.com/blog/2014/05/28/hello-fe/</loc>
     
     <lastmod>2018-10-18T09:29:56.401Z</lastmod>
     
@@ -66,6 +59,13 @@
   
   <url>
     <loc>http://yoursite.com/blog/2016/04/14/coder-and-tech/</loc>
+    
+    <lastmod>2018-10-18T09:29:56.401Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/blog/2015/12/15/3-year/</loc>
     
     <lastmod>2018-10-18T09:29:56.401Z</lastmod>
     
@@ -93,14 +93,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://yoursite.com/contact/index.html</loc>
     
     <lastmod>2018-10-18T09:29:56.401Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/contact/index.html</loc>
+    <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2018-10-18T09:29:56.401Z</lastmod>
     
