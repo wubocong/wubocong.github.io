@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+      <loc>https://wubocong.com/</loc>
+      <lastmod>2020-03-27T09:23:18.481Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1</priority>
+  </url>
+  <url>
+      <loc>https://wubocong.com/blog/</loc>
+      <lastmod>2020-03-27T09:23:18.481Z</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/09/07/opengl-in-visual-studio-2015/</loc>
+    
+    <lastmod>2019-07-10T09:17:03.877Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/05/28/vertical-align-all-you-need-to-know/</loc>
+    
+    <lastmod>2019-07-10T09:17:03.874Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/04/25/html-checkbox-validation/</loc>
+    
+    <lastmod>2019-07-10T09:17:03.870Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/04/02/code-report-march-2016/</loc>
+    
+    <lastmod>2019-07-10T09:17:03.867Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2015/03/24/javascript-prototype/</loc>
+    
+    <lastmod>2019-07-10T09:17:03.864Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/contact/index.html</loc>
+    
+    <lastmod>2019-07-10T09:14:21.012Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/about/index.html</loc>
+    
+    <lastmod>2019-07-10T09:14:21.009Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/09/23/withdraw-charge/</loc>
+    
+    <lastmod>2019-07-10T09:14:21.006Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/04/14/coder-and-tech/</loc>
+    
+    <lastmod>2019-07-10T09:14:20.996Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/04/11/javascript-setter-getter/</loc>
+    
+    <lastmod>2019-07-10T09:14:20.994Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/04/07/javascript-object-state/</loc>
+    
+    <lastmod>2019-07-10T09:14:20.992Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/03/29/frontend-learning/</loc>
+    
+    <lastmod>2019-07-10T09:14:20.988Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2015/12/15/3-year/</loc>
+    
+    <lastmod>2019-07-10T09:14:20.985Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2015/02/26/javascript-type/</loc>
+    
+    <lastmod>2019-07-10T09:14:20.981Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2014/05/28/hello-fe/</loc>
+    
+    <lastmod>2019-07-10T09:14:20.979Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+</urlset>
