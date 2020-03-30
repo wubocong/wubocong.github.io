@@ -1,18 +1,18 @@
 // import TweenMax from 'gsap/TweenMax';
 // var TweenLite = TweenMax.TweenLite;
 
-var alphaDust = function() {
+var alphaDust = function () {
 
     var _menuOn = false;
 
     function initPostHeader() {
-        $('.main .post').each(function() {
+        $('.main .post').each(function () {
             var $post = $(this);
             var $header = $post.find('.post-header.index');
             var $title = $post.find('h1.title');
             var $readMoreLink = $post.find('a.read-more');
 
-            var toggleHoverClass = function() {
+            var toggleHoverClass = function () {
                 $header.toggleClass('hover');
             };
 
@@ -38,7 +38,7 @@ var alphaDust = function() {
         }, 0.3);
         _menuOn = true;
 
-        $('.menu-bg').hover(function() {
+        $('.menu-bg').hover(function () {
             $('nav a').toggleClass('menu-close-hover');
         });
     }
@@ -47,7 +47,7 @@ var alphaDust = function() {
         $('nav a').removeClass('menu-active');
         TweenLite.to('.menu-bg', 0.5, {
             opacity: '0',
-            onComplete: function() {
+            onComplete: function () {
                 $('.menu-bg').hide();
             }
         });
@@ -62,7 +62,7 @@ var alphaDust = function() {
 
     function initMenu() {
 
-        $('nav a').click(function() {
+        $('nav a').click(function () {
             if (_menuOn) {
                 _menuHide();
             } else {
@@ -70,7 +70,7 @@ var alphaDust = function() {
             }
         });
 
-        $('.menu-bg').click(function(e) {
+        $('.menu-bg').click(function (e) {
             if (_menuOn && e.target === this) {
                 _menuHide();
             }
@@ -86,18 +86,41 @@ var alphaDust = function() {
         }, 0.15);
     }
 
+    function loadImageViewer() {
+        $('img').each(function (_, img) {
+            new Viewer(img, {
+                toolbar: {
+                    zoomIn: true,
+                    zoomOut: true,
+                    oneToOne: true,
+                    reset: true,
+                    play: true,
+                    rotateLeft: true,
+                    rotateRight: true,
+                    flipHorizontal: true,
+                    flipVertical: true,
+                    next: false,
+                    prev: false
+                },
+                navbar: false
+            });
+        });
+    }
+
     return {
         initPostHeader: initPostHeader,
         initMenu: initMenu,
-        displayArchives: displayArchives
+        displayArchives: displayArchives,
+        loadImageViewer: loadImageViewer
     };
 }();
 
 
-$(function() {
+$(function () {
     alphaDust.initPostHeader();
     alphaDust.initMenu();
     alphaDust.displayArchives();
+    alphaDust.loadImageViewer();
 });
 
 function lightSaber() {
