@@ -8,9 +8,27 @@
   </url>
   <url>
       <loc>https://wubocong.com/blog/</loc>
-      <lastmod>2020-03-30T17:52:18.481Z</lastmod>
+      <lastmod>2020-04-21T12:10:18.481Z</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/03/29/frontend-learning/</loc>
+    
+    <lastmod>2020-04-21T03:30:38.986Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://wubocong.com/2016/04/14/coder-and-tech/</loc>
+    
+    <lastmod>2020-04-21T03:29:22.902Z</lastmod>
+    
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   
   <url>
@@ -95,15 +113,6 @@
   </url>
   
   <url>
-    <loc>https://wubocong.com/2016/04/14/coder-and-tech/</loc>
-    
-    <lastmod>2019-07-10T09:14:20.996Z</lastmod>
-    
-    <priority>0.6</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
     <loc>https://wubocong.com/2016/04/11/javascript-setter-getter/</loc>
     
     <lastmod>2019-07-10T09:14:20.994Z</lastmod>
@@ -116,15 +125,6 @@
     <loc>https://wubocong.com/2016/04/07/javascript-object-state/</loc>
     
     <lastmod>2019-07-10T09:14:20.992Z</lastmod>
-    
-    <priority>0.6</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://wubocong.com/2016/03/29/frontend-learning/</loc>
-    
-    <lastmod>2019-07-10T09:14:20.988Z</lastmod>
     
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>

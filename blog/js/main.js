@@ -89,6 +89,7 @@ var alphaDust = function () {
     function loadImageViewer() {
         $('img').each(function (_, img) {
             new Viewer(img, {
+                backdrop: 'static',
                 toolbar: {
                     zoomIn: true,
                     zoomOut: true,
